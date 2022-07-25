@@ -6,7 +6,7 @@ Array.from(btn).forEach((button)=>{
             result = eval(result);
             document.querySelector('input').value = result;
         }
-        else if (e.target.innerHTML == 'c'){
+        else if (e.target.innerHTML == 'clear'){
             result = '';
             document.querySelector('input').value = result
         }

@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-family: cursive;
+    font-size: 60px;
+}
+.number{
+    width: 55px;
+    color: aquamarine;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 0px;
+    margin: 5px;
+    font-size: 35px;
+    background-color: rgb(94, 72, 42);
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    
+}
+.container{
+    background-color: black;
+    width: fit-content;
+    margin: auto;
+}
+#equal{
+    background-color: rgb(47, 76, 87);
+}
+.row{
+    text-align: center;
+}
+.row input{
+    font-weight: bold;
+    border: 2px solid blue;
+    margin-bottom: 5px;
+    margin-top: 8px;
+    font-size: 20px;
+    padding: 8px;
+}
+body{
+    background-color: brown;
+}
+#subtract{
+    padding-left: 19px;
+    padding-right: 16px;
+}
+#add{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#dot{
+    padding-left: 19px;
+    padding-right: 16px;
+}
+#percent{
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#clearbtn{
+    color: red;
+}
